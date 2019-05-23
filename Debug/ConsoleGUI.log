@@ -1,0 +1,46 @@
+﻿Der Buildvorgang wurde am 24.07.2015 20:09:44 gestartet.
+     1>Projekt "C:\Users\str8\Documents\Visual Studio 2013\Projects\ConsoleGUI\ConsoleGUI\ConsoleGUI.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D CONSOLEGUI_EXPORTS /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\textarea.h(60): warning C4244: 'Argument': Konvertierung von 'int' in 'FLOAT', möglicher Datenverlust
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\textarea.h(65): warning C4244: 'Initialisierung': Konvertierung von 'float' in 'int', möglicher Datenverlust
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\textarea.h(68): warning C4018: '>': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\textarea.h(69): warning C4244: '=': Konvertierung von 'float' in 'int', möglicher Datenverlust
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\textarea.h(76): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\textarea.h(85): warning C4244: 'Argument': Konvertierung von 'int' in 'FLOAT', möglicher Datenverlust
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\textarea.h(87): warning C4244: 'Argument': Konvertierung von 'int' in 'FLOAT', möglicher Datenverlust
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\textarea.h(93): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\textarea.h(116): warning C4244: 'Initialisierung': Konvertierung von 'double' in 'int', möglicher Datenverlust
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\textarea.h(118): warning C4244: 'Initialisierung': Konvertierung von 'float' in 'int', möglicher Datenverlust
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\textarea.h(121): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\textarea.h(127): warning C4244: 'Initialisierung': Konvertierung von 'float' in 'int', möglicher Datenverlust
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\textarea.h(128): warning C4018: '>': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\textbox.h(62): warning C4244: 'Argument': Konvertierung von 'int' in 'FLOAT', möglicher Datenverlust
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\textbox.h(65): warning C4244: 'Argument': Konvertierung von 'int' in 'FLOAT', möglicher Datenverlust
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\tab.h(71): warning C4244: 'Argument': Konvertierung von 'int' in 'FLOAT', möglicher Datenverlust
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\tab.h(74): warning C4244: 'Argument': Konvertierung von 'int' in 'FLOAT', möglicher Datenverlust
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\menu.h(34): warning C4244: 'Argument': Konvertierung von 'int' in 'FLOAT', möglicher Datenverlust
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\console.h(87): warning C4244: 'Initialisierung': Konvertierung von 'int' in 'float', möglicher Datenverlust
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\console.h(113): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\console.h(129): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\console.h(174): warning C4805: '==': unsichere Kombination von Typ 'int' mit Typ 'bool' in einer Operation
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\console.h(324): warning C4244: 'Argument': Konvertierung von 'float' in 'int', möglicher Datenverlust
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\test.h(18): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'float'
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\main.cpp(72): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 12.0\vc\include\stdio.h(226): Siehe Deklaration von 'freopen'
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\test.h(28): warning C4715: "Test::GetIValue": Nicht alle Steuerelementpfade geben einen Wert zurück.
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\test.h(34): warning C4715: "Test::GetBoolValue": Nicht alle Steuerelementpfade geben einen Wert zurück.
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\test.h(46): warning C4715: "Test::GetVECValue": Nicht alle Steuerelementpfade geben einen Wert zurück.
+     1>c:\users\str8\documents\visual studio 2013\projects\consolegui\consolegui\test.h(40): warning C4715: "Test::GetFLValue": Nicht alle Steuerelementpfade geben einen Wert zurück.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\str8\Documents\Visual Studio 2013\Projects\ConsoleGUI\Debug\ConsoleGUI.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\str8\Documents\Visual Studio 2013\Projects\ConsoleGUI\Debug\ConsoleGUI.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\str8\Documents\Visual Studio 2013\Projects\ConsoleGUI\Debug\ConsoleGUI.lib" /MACHINE:X86 /DLL Debug\CRender.obj
+         Debug\main.obj
+     1>detours.lib(detours.obj) : warning LNK4099: PDB "detours.pdb" wurde nicht mit "detours.lib(detours.obj)" oder an "C:\Users\str8\Documents\Visual Studio 2013\Projects\ConsoleGUI\Debug\detours.pdb" gefunden; Objekt wird verkn³pft, als ob keine Debuginformationen vorhanden wõren.
+     1>detours.lib(disasm.obj) : warning LNK4099: PDB "detours.pdb" wurde nicht mit "detours.lib(disasm.obj)" oder an "C:\Users\str8\Documents\Visual Studio 2013\Projects\ConsoleGUI\Debug\detours.pdb" gefunden; Objekt wird verkn³pft, als ob keine Debuginformationen vorhanden wõren.
+         ConsoleGUI.vcxproj -> C:\Users\str8\Documents\Visual Studio 2013\Projects\ConsoleGUI\Debug\ConsoleGUI.dll
+     1>Die Erstellung des Projekts "C:\Users\str8\Documents\Visual Studio 2013\Projects\ConsoleGUI\ConsoleGUI\ConsoleGUI.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:03.37
